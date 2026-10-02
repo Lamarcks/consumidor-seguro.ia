@@ -268,5 +268,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvime
 ---
 
 <p align="center">
-  Desenvolvido por <strong>Lamarcks</strong>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihago%20Lamarcks-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ihago-lamarcks1/)
+
 </p>
